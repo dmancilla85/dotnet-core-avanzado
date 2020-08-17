@@ -1,0 +1,7 @@
+{
+	"runtimeOptions":{
+		"additionalProbingPaths":[
+			"C:\\users\\david\\.nuget\\packages\\humanizer.core\\2.8.26\\lib\\netstandard2.0"
+		]
+	}
+}

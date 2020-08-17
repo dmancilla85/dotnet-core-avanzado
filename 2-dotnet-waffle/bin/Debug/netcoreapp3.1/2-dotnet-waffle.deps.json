@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "2-dotnet-waffle/1.0.0": {
+        "dependencies": {
+          "WaffleGenerator": "4.1.1"
+        },
+        "runtime": {
+          "2-dotnet-waffle.dll": {}
+        }
+      },
+      "WaffleGenerator/4.1.1": {
+        "runtime": {
+          "lib/netstandard2.0/WaffleGenerator.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2-dotnet-waffle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WaffleGenerator/4.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rwC3qa+Uas5wiCVAEquRKt74zzH5Ih2VB4crbwBnHY3C3PEG4i5l15E61lg3ltIqiQujD3pqjV2DB3j1MAGeEQ==",
+      "path": "wafflegenerator/4.1.1",
+      "hashPath": "wafflegenerator.4.1.1.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+	"runtimeTarget": {
+		"name":".NETCoreAPP,Version=v3.1.5"
+	},
+	"targets":{
+		".NETCoreAPP,Version=v3.1.5": {
+			"Humanizer.Core/2.8.26":{
+				"runtime":{
+					"lib/netstandard2.0/Humanizer.dll":{
+						"assemblyVersion":"2.8.26",
+						"fileVersion":"2.8.26.1919"
+					}
+				}
+			}
+		}
+	},
+	"libraries":{
+		"Humanizer.Core/2.8.26":{
+			"type": "package",
+			"serviceable": false,
+			"sha512": ""
+		}
+	}
+}

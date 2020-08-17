@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wLWdiOltBjqelgPlVoYyZCFCI3rvkfDdKfU5Xb/0UVnTAVL07cLigxSduSWuSQm26fiAKT1A8OMx4uxJLLKcfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\dotnet\\core-avanzado\\2-dotnet-waffle\\2-dotnet-waffle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\wafflegenerator\\4.1.1\\wafflegenerator.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

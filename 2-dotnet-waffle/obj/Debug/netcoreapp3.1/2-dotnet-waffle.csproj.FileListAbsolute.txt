@@ -1,0 +1,15 @@
+C:\Proyectos\dotnet\core-avanzado\2-dotnet-waffle\bin\Debug\netcoreapp3.1\2-dotnet-waffle.exe
+C:\Proyectos\dotnet\core-avanzado\2-dotnet-waffle\bin\Debug\netcoreapp3.1\2-dotnet-waffle.deps.json
+C:\Proyectos\dotnet\core-avanzado\2-dotnet-waffle\bin\Debug\netcoreapp3.1\2-dotnet-waffle.runtimeconfig.json
+C:\Proyectos\dotnet\core-avanzado\2-dotnet-waffle\bin\Debug\netcoreapp3.1\2-dotnet-waffle.runtimeconfig.dev.json
+C:\Proyectos\dotnet\core-avanzado\2-dotnet-waffle\bin\Debug\netcoreapp3.1\2-dotnet-waffle.dll
+C:\Proyectos\dotnet\core-avanzado\2-dotnet-waffle\bin\Debug\netcoreapp3.1\2-dotnet-waffle.pdb
+C:\Proyectos\dotnet\core-avanzado\2-dotnet-waffle\bin\Debug\netcoreapp3.1\WaffleGenerator.dll
+C:\Proyectos\dotnet\core-avanzado\2-dotnet-waffle\obj\Debug\netcoreapp3.1\2-dotnet-waffle.csprojAssemblyReference.cache
+C:\Proyectos\dotnet\core-avanzado\2-dotnet-waffle\obj\Debug\netcoreapp3.1\2-dotnet-waffle.AssemblyInfoInputs.cache
+C:\Proyectos\dotnet\core-avanzado\2-dotnet-waffle\obj\Debug\netcoreapp3.1\2-dotnet-waffle.AssemblyInfo.cs
+C:\Proyectos\dotnet\core-avanzado\2-dotnet-waffle\obj\Debug\netcoreapp3.1\2-dotnet-waffle.csproj.CoreCompileInputs.cache
+C:\Proyectos\dotnet\core-avanzado\2-dotnet-waffle\obj\Debug\netcoreapp3.1\2-dotnet-waffle.csproj.CopyComplete
+C:\Proyectos\dotnet\core-avanzado\2-dotnet-waffle\obj\Debug\netcoreapp3.1\2-dotnet-waffle.dll
+C:\Proyectos\dotnet\core-avanzado\2-dotnet-waffle\obj\Debug\netcoreapp3.1\2-dotnet-waffle.pdb
+C:\Proyectos\dotnet\core-avanzado\2-dotnet-waffle\obj\Debug\netcoreapp3.1\2-dotnet-waffle.genruntimeconfig.cache

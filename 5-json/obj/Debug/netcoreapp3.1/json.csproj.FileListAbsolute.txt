@@ -1,0 +1,13 @@
+C:\Proyectos\dotnet\core-avanzado\json\bin\Debug\netcoreapp3.1\json.exe
+C:\Proyectos\dotnet\core-avanzado\json\bin\Debug\netcoreapp3.1\json.deps.json
+C:\Proyectos\dotnet\core-avanzado\json\bin\Debug\netcoreapp3.1\json.runtimeconfig.json
+C:\Proyectos\dotnet\core-avanzado\json\bin\Debug\netcoreapp3.1\json.runtimeconfig.dev.json
+C:\Proyectos\dotnet\core-avanzado\json\bin\Debug\netcoreapp3.1\json.dll
+C:\Proyectos\dotnet\core-avanzado\json\bin\Debug\netcoreapp3.1\json.pdb
+C:\Proyectos\dotnet\core-avanzado\json\obj\Debug\netcoreapp3.1\json.csprojAssemblyReference.cache
+C:\Proyectos\dotnet\core-avanzado\json\obj\Debug\netcoreapp3.1\json.AssemblyInfoInputs.cache
+C:\Proyectos\dotnet\core-avanzado\json\obj\Debug\netcoreapp3.1\json.AssemblyInfo.cs
+C:\Proyectos\dotnet\core-avanzado\json\obj\Debug\netcoreapp3.1\json.csproj.CoreCompileInputs.cache
+C:\Proyectos\dotnet\core-avanzado\json\obj\Debug\netcoreapp3.1\json.dll
+C:\Proyectos\dotnet\core-avanzado\json\obj\Debug\netcoreapp3.1\json.pdb
+C:\Proyectos\dotnet\core-avanzado\json\obj\Debug\netcoreapp3.1\json.genruntimeconfig.cache
